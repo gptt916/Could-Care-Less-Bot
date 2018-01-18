@@ -18,7 +18,7 @@ import time
  
 # Initialize PRAW with a custom User-Agent
  
-r = praw.Reddit('Simple comment parser from WhyCouch')
+r = praw.Reddit('Simple comment parser')
  
 polite_users = set()   # to avoid duplicates
  
